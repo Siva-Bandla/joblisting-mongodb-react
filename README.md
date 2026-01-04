@@ -15,9 +15,12 @@ A Spring Boot application that allows jobseekers to view posted jobs and recruit
 - RESTful APIs
 
 ## Setup
+```bash
 git clone https://github.com/username/joblistingMongoDBReact.git
 cd joblistingMongoDBReact
 mvn spring-boot:run
+
+##API end points
 - GET /allPosts → List all jobs
 - GET /posts/{text} → Search jobs by text
 - POST /post → Add a new job (for recruiters)
