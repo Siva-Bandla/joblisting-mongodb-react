@@ -16,7 +16,7 @@ A Spring Boot application that allows jobseekers to view posted jobs and recruit
 
 ## Setup
 ```bash
-git clone https://github.com/username/joblistingMongoDBReact.git
+git clone https://github.com/Siva-Bandla/joblisting-mongodb-react.git
 cd joblistingMongoDBReact
 mvn spring-boot:run
 
